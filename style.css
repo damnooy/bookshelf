@@ -1,0 +1,39 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: 'Playfair Display', serif;
+}
+
+.colJudul {
+    border-radius: 10px;
+    /* margin-right: 15px; */
+}
+
+.cariBuku {
+    border-radius: 10px;
+    /* font-size: 17px; */
+}
+
+/* .colBuku {
+    margin-left: 15px;
+} */
+
+.colBaca {
+    border-radius: 10px;
+}
+
+.statusBaca {
+    border: 2px solid blanchedalmond;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+.btnGreen {
+    margin-right: 10px;
+}
